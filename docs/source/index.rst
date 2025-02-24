@@ -23,5 +23,5 @@ Nagłówek 4
 #. asdsad
 #. asdasd
 
-.. image:: images.jpeg
+.. image:: https://media.licdn.com/dms/image/v2/D4D22AQGwH3ihgnf1fA/feedshare-shrink_800/feedshare-shrink_800/0/1684832019778?e=2147483647&v=beta&t=CtuAwakTS1yiJg6lvSqQXPUThVrblJl7Wb7CcMB9N3s
    :width: 600
