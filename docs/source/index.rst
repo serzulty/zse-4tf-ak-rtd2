@@ -27,3 +27,6 @@ Nagłówek 4
    :width: 80%
    :align: center
    :alt: GitHub template for the tutorial
+
+.. image:: images/get_started_sphinx.png
+   :width: 600
